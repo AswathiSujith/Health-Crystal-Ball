@@ -29,3 +29,6 @@ The Health Crystal Ball is a machine learning-based AI application that predicts
 | Albumin/Globulin Ratio      | Albumin divided by Globulin                  |
 
 ---
+
+## Live Demo
+Try the app online: [Health Crystal Ball](https://health-crystal-ball-ndym9bitryznwv5xfns9a6.streamlit.app)
